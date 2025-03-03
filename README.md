@@ -8,17 +8,17 @@ This repository is dedicated to my learning journey as I practice and explore fu
 
 ## Contents
 
-Imports
-Vector
-Matrix
-Array size
-Array shape
-Array datatype
-Random int array
-Zero's array
-One's array
-Range array
-Constant seed
-Slicing
-Airthmatic operations
-Sorting arry
+- Imports
+- Vector
+- Matrix
+- Array size
+- Array shape
+- Array datatype
+- Random int array
+- Zero's array
+- One's array
+- Range array
+- Constant seed
+- Slicing
+- Airthmatic operations
+- Sorting array
